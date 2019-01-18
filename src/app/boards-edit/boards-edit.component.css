@@ -1,0 +1,19 @@
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 95%;
+  margin-left: 2.5%;
+}
+
+.example-full-width .description{
+  height: 15px;
+  padding-top: 0px;
+}
+
+.button-row {
+  margin: 10px 15px;
+}
